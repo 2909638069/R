@@ -1,2 +1,2 @@
 # R
-All in R
+Machine Learning in R
